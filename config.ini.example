@@ -1,0 +1,28 @@
+[database]
+host = 
+database = 
+user = 
+password = 
+
+[login]
+url = 
+bankUser = 
+bankPass = 
+
+maranUser = 
+maranPass = 
+
+[paths]
+result = 
+
+[mail]
+mail = 
+mailError = 
+
+clientID = 
+clientSecret = 
+clientTenant = 
+session = 
+
+[bifrost]
+request_types = 
