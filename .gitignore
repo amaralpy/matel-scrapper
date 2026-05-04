@@ -2,6 +2,8 @@ config.ini
 docs/datosKUDE.xlsx
 resultado/*.xml
 resultado/*.xlsx
+chrome
+profile
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
